@@ -1,0 +1,2 @@
+# pipelineauto
+Automatização do pipeline
